@@ -1,4 +1,5 @@
-** AI Gesture-Controlled System**
+AI Gesture-Controlled System
+
 Volume 🔊 | Brightness 💡 | Media 🎵 Control using Hand Gestures
 
 
