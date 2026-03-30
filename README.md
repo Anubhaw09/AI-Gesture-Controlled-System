@@ -61,9 +61,8 @@ gesture-control/
 
 ├── gesture_recognition.py   # Main program
 
-├── README.md                # Project documentation
+└──README.md                # Project documentation
 
-└── requirements.txt         # Dependencies (optional)
 
 
 
