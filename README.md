@@ -2,6 +2,7 @@
 Volume 🔊 | Brightness 💡 | Media 🎵 Control using Hand Gestures
 
 
+
 📌 Overview
 This project is a real-time gesture control system that allows you to control your computer using hand gestures captured via webcam.
 Instead of using a mouse or keyboard, you can:
@@ -10,7 +11,9 @@ Control screen brightness
 Play/Pause music
 Skip tracks
 
+
 👉 All using simple hand gestures!
+
 
 🚀 Features
 ✋ Real-time hand tracking using MediaPipe
@@ -31,13 +34,18 @@ Skip tracks
     PyAutoGUI
     PyCAW (for volume control)
     Screen Brightness Control
+
+
     
 📂 Project Structure
+
+
 gesture-control/
 │
 ├── gesture_recognition.py   # Main program
 ├── README.md                # Project documentation
 └── requirements.txt         # Dependencies (optional)
+
 
 
 ⚙️ Installation
@@ -63,6 +71,7 @@ Predefined rules map gestures to actions
 Commands are executed using system libraries
 
 
+
 ⚠️ Requirements
 Webcam (mandatory)
 Good lighting for accurate detection
@@ -80,20 +89,27 @@ Computer Vision basics
 Hand tracking using MediaPipe
 Real-time system design
 Debugging and optimization
+
+
+
 🙌 Acknowledgements
 MediaPipe by Google
 OpenCV community
 Python open-source libraries
+
+
 
 👨‍💻 Author
 Anubhaw Anand Singh
 🎓 B.Tech Aerospace Engineering
 📘 Registration Number: 25BAS10088
 
+
+
 📜 License
 This project is open-source and free to use.
 
 
-🎯 Final Note
 
+🎯 Final Note
 This project shows how simple computer vision + logic can create powerful real-world applications 🚀
