@@ -4,6 +4,7 @@ Volume 🔊 | Brightness 💡 | Media 🎵 Control using Hand Gestures
 
 
 📌 Overview
+
 This project is a real-time gesture control system that allows you to control your computer using hand gestures captured via webcam.
 
 Instead of using a mouse or keyboard, you can:
@@ -54,14 +55,20 @@ Skip tracks
 
 
 gesture-control/
+
 │
+
 ├── gesture_recognition.py   # Main program
+
 ├── README.md                # Project documentation
+
 └── requirements.txt         # Dependencies (optional)
 
 
 
 ⚙️ Installation
+
+
 1️⃣ Install Python
 Use Python 3.10 (recommended)
 
@@ -89,6 +96,7 @@ Gesture	Action
 
 🧠 How It Works
 
+
 Webcam captures live video
 
 MediaPipe detects hand landmarks 
@@ -102,6 +110,7 @@ Commands are executed using system libraries
 
 
 ⚠️ Requirements
+
 
 Webcam (mandatory)
 
@@ -152,6 +161,7 @@ Python open-source libraries
 
 
 👨‍💻 Author
+
 
 Anubhaw Anand Singh
 
